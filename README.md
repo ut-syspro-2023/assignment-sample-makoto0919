@@ -9,9 +9,9 @@
 
 ## Assignment
 
-- Slide: [here]() (ECCS email required) 
+- Slide: [here](https://docs.google.com/presentation/d/1B-RpYS2flYxuJ3whyyUykvRLiq9ut1LldmgxfGEKu94/edit?usp=sharing) (ECCS email required) 
 - Date assigned: ***2023/04/10***
-- Date due: ***2023/04/17*** (tentative)
+- Date due: ***2023/04/10*** (tentative)
 
 ## Notes
 
